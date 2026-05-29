@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flasgger import Swagger
 import pickle
+import os
 
 # Load model and vectorizer
 with open("model.pkl", "rb") as f:
@@ -61,4 +62,6 @@ def predict():
     })
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+    port = int(os.environ.get("PORT", 5001))
+    app.run(host="0.0.0.0", port=port)
+    
