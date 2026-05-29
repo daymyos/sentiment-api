@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/22198269844249969dae444e77ac6504/artifacts
+end_time: 1780026248215
+entry_point_name: ''
+experiment_id: '565107795017231554'
+lifecycle_stage: active
+run_id: 22198269844249969dae444e77ac6504
+run_name: bigram_logreg_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780026243233
+status: 3
+tags: []
+user_id: dayanayos

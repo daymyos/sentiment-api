@@ -1,0 +1,23 @@
+artifact_path: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/models/m-7b93501737a7487b92229eb71c77ebbc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-7b93501737a7487b92229eb71c77ebbc
+model_size_bytes: 160617
+model_uuid: m-7b93501737a7487b92229eb71c77ebbc
+prompts: null
+run_id: 0bf920bb2c724d60bf1587f5b936fbd1
+utc_time_created: '2026-05-29 02:48:28.412037'

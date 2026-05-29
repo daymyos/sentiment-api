@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/0bf920bb2c724d60bf1587f5b936fbd1/artifacts
+end_time: 1780022910367
+entry_point_name: ''
+experiment_id: '565107795017231554'
+lifecycle_stage: active
+run_id: 0bf920bb2c724d60bf1587f5b936fbd1
+run_name: naive_bayes_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780022907492
+status: 3
+tags: []
+user_id: dayanayos

@@ -1,0 +1,6 @@
+flask
+flasgger
+scikit-learn
+pandas
+numpy
+mlflow

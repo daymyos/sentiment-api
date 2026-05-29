@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/models/m-db0b811480f9495591e8e08af18d5607/artifacts
+creation_timestamp: 1780018651036
+experiment_id: '565107795017231554'
+last_updated_timestamp: 1780018653386
+model_id: m-db0b811480f9495591e8e08af18d5607
+model_type: null
+name: sentiment_model
+source_run_id: 66e582b5d58b494fb30fd543e59ff15d
+status: 2
+status_message: null

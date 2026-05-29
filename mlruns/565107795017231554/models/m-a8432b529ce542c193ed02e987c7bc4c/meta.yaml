@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/models/m-a8432b529ce542c193ed02e987c7bc4c/artifacts
+creation_timestamp: 1780026171201
+experiment_id: '565107795017231554'
+last_updated_timestamp: 1780026173757
+model_id: m-a8432b529ce542c193ed02e987c7bc4c
+model_type: null
+name: model
+source_run_id: d1b5878c90b84c40846e240996495e53
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/39463ff42f8c48e286ecc7eb6620270a/artifacts
+end_time: 1780020264579
+entry_point_name: ''
+experiment_id: '565107795017231554'
+lifecycle_stage: active
+run_id: 39463ff42f8c48e286ecc7eb6620270a
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780020262224
+status: 3
+tags: []
+user_id: dayanayos

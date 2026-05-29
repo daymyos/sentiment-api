@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayanayos/Desktop/CIS 325/finalproject/mlruns/565107795017231554/66e582b5d58b494fb30fd543e59ff15d/artifacts
+end_time: 1780018653389
+entry_point_name: ''
+experiment_id: '565107795017231554'
+lifecycle_stage: active
+run_id: 66e582b5d58b494fb30fd543e59ff15d
+run_name: merciful-crane-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780018650884
+status: 3
+tags: []
+user_id: dayanayos
